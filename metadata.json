@@ -1,0 +1,6 @@
+{
+  "name": "GESTOCKv2 - Caisse & Stock Hors-Ligne",
+  "description": "Application complète de gestion de stock, caisse, ventes, dépenses et bénéfices 100% hors-ligne avec double interface Gérant et Superviseur sécurisé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
